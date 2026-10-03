@@ -18,7 +18,7 @@ int main(){
         price=1200;
         break;
         default:
-        cout<<"invalid";
+        cout<<"invalid option";
 
     }
     if(age < 12 || age >= 60)
