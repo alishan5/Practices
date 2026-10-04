@@ -9,5 +9,6 @@ int main(){
     cout<<"Charcter\tASCII Valaue\n";
     for(char ch='A';ch <= 'Z';ch++){
         cout<< ch <<"\t\t"<<int(ch)<<endl;
+        return 0;
     }
 }
